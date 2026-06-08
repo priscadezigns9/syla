@@ -1,0 +1,122 @@
+[
+  {
+    "question": "How do I make the text bigger on my phone?",
+    "answer": "Go to your 'Settings' app. Look for 'Display' or 'Accessibility'. There you will find an option called 'Font Size' or 'Text Size'. Move the slider to the right to make the words larger."
+  },
+  {
+    "question": "How do I take a picture?",
+    "answer": "Find the icon that looks like a camera on your screen. Tap it. Then, point your phone at what you want to see and tap the large white circle at the bottom."
+  },
+  {
+    "question": "What is 'The Cloud'?",
+    "answer": "Think of 'The Cloud' as a giant digital filing cabinet that lives on the internet instead of inside your phone. It keeps your photos and messages safe even if you lose your phone."
+  },
+  {
+    "question": "How do I connect to Wi-Fi?",
+    "answer": "Go to 'Settings' and tap on 'Wi-Fi'. Make sure the switch is green. Find the name of your home network in the list, tap it, and type in your password."
+  },
+  {
+    "question": "How do I send a text message?",
+    "answer": "Open the 'Messages' app (usually a green or blue speech bubble). Tap the 'compose' button (looks like a pencil and paper). Type the person's name or number at the top, type your message at the bottom, and tap the arrow to send."
+  },
+  {
+    "question": "My screen went black. What do I do?",
+    "answer": "Try pressing the small button on the side of your phone once. If that doesn't work, hold that same button down for 10 seconds to restart it."
+  },
+  {
+    "question": "How do I check my email?",
+    "answer": "Look for an app called 'Mail', 'Gmail', or 'Outlook'. Tap it, and your new messages should be right there at the top of the list."
+  },
+  {
+    "question": "How do I turn the volume up?",
+    "answer": "There are long buttons on the side of your phone. Press the top one to make it louder and the bottom one to make it quieter."
+  },
+  {
+    "question": "How do I charge my phone?",
+    "answer": "Plug the small end of your charging cable into the hole at the bottom of your phone. Plug the other end into a wall outlet. You should see a small lightning bolt on the battery icon at the top."
+  },
+  {
+    "question": "What is a 'Browser'?",
+    "answer": "A browser is the app you use to look at websites. Common ones are 'Safari' (looks like a compass) or 'Chrome' (looks like a colorful circle)."
+  },
+  {
+    "question": "How do I delete an app?",
+    "answer": "Press and hold your finger on the app icon you want to remove. A menu will pop up. Tap 'Remove App' or 'Delete App'."
+  },
+  {
+    "question": "How do I use Google?",
+    "answer": "Open your browser (like Safari or Chrome) and type 'google.com' in the bar at the top. Type what you are looking for in the big box in the middle and tap 'Search'."
+  },
+  {
+    "question": "How do I find a lost app?",
+    "answer": "Swipe your finger from the middle of the screen downwards. A search bar will appear. Type the name of the app, and it will show you where it is."
+  },
+  {
+    "question": "How do I update my phone?",
+    "answer": "Go to 'Settings', then 'General', then 'Software Update'. If there is an update available, tap 'Download and Install'."
+  },
+  {
+    "question": "How do I turn off my phone?",
+    "answer": "Hold the side button and the volume button at the same time until a slider appears that says 'Slide to power off'. Move the slider to the right."
+  },
+  {
+    "question": "How do I use a QR code?",
+    "answer": "Open your Camera app. Point it at the square black and white code. A yellow link should appear on your screen. Tap that link."
+  },
+  {
+    "question": "What is an 'App Store'?",
+    "answer": "It is like a digital shop where you can get new programs for your phone. Most of them are free. Look for the blue 'A' icon on an iPhone or the colorful triangle on an Android."
+  },
+  {
+    "question": "How do I block a caller?",
+    "answer": "Go to your 'Phone' app and find the number in your recent calls. Tap the small 'i' next to it, scroll down, and tap 'Block this Caller'."
+  },
+  {
+    "question": "How do I copy and paste?",
+    "answer": "Hold your finger on a word until it turns blue. Move the dots to select all the words you want. Tap 'Copy'. Go where you want to put the words, hold your finger down, and tap 'Paste'."
+  },
+  {
+    "question": "How do I change my wallpaper?",
+    "answer": "Go to 'Settings', then 'Wallpaper'. You can choose a photo from your own gallery or one from the phone's collection."
+  },
+  {
+    "question": "How do I use Siri or Google Assistant?",
+    "answer": "Hold down the side button or say 'Hey Siri' (for iPhone) or 'Hey Google' (for Android). Then just ask your question out loud."
+  },
+  {
+    "question": "How do I see my open apps?",
+    "answer": "Slowly swipe up from the very bottom of the screen to the middle and hold for a second. You will see all your open apps like a deck of cards."
+  },
+  {
+    "question": "How do I set an alarm?",
+    "answer": "Open the 'Clock' app. Tap 'Alarm' at the bottom. Tap the '+' sign to add a new one, pick your time, and tap 'Save'."
+  },
+  {
+    "question": "How do I use a flashlight?",
+    "answer": "Swipe down from the top right corner of your screen. Look for the icon that looks like a small torch or flashlight and tap it."
+  },
+  {
+    "question": "What is Bluetooth?",
+    "answer": "Bluetooth is a way for your phone to talk to other things nearby without wires, like hearing aids, speakers, or your car."
+  },
+  {
+    "question": "How do I share a photo?",
+    "answer": "Open the photo you want to send. Tap the icon that looks like a square with an arrow pointing up. Choose the person or the app (like Messages or Mail) you want to send it to."
+  },
+  {
+    "question": "How do I clear my notifications?",
+    "answer": "Swipe down from the very top of your screen. You will see a list of messages. Tap the small 'X' at the top of the list to clear them all."
+  },
+  {
+    "question": "How do I restart a frozen app?",
+    "answer": "Swipe up from the bottom to see your open apps, then flick the frozen app upwards to close it. Then open it again from your home screen."
+  },
+  {
+    "question": "How do I check my data usage?",
+    "answer": "Go to 'Settings', then 'Cellular' or 'Mobile Data'. It will show you how much internet you have used this month."
+  },
+  {
+    "question": "How do I scan a document?",
+    "answer": "Open the 'Notes' app. Create a new note. Tap the camera icon and choose 'Scan Documents'. Hold your phone over the paper."
+  }
+]
