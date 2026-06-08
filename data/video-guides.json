@@ -1,0 +1,38 @@
+[
+  {
+    "platform": "WhatsApp",
+    "steps": [
+      "Open the WhatsApp app (green icon with a white phone).",
+      "Tap on the name of the person you want to call.",
+      "Look at the top right corner. Tap the icon that looks like a small video camera.",
+      "Wait for the person to answer. You will see their face on the screen!"
+    ]
+  },
+  {
+    "platform": "FaceTime",
+    "steps": [
+      "Open the FaceTime app (green icon with a white video camera).",
+      "Tap the 'New FaceTime' button at the top.",
+      "Type the name or phone number of your family member.",
+      "Tap the 'FaceTime' button (the green video camera icon) to start the call."
+    ]
+  },
+  {
+    "platform": "Zoom",
+    "steps": [
+      "Open the Zoom app (blue icon with a white video camera).",
+      "If you have a link from your family, tap it in your messages first.",
+      "Otherwise, tap 'Join' and type in the Meeting ID they gave you.",
+      "Tap 'Join with Video' and 'Join with Audio' so they can see and hear you."
+    ]
+  },
+  {
+    "platform": "Google Meet",
+    "steps": [
+      "Open the Google Meet app (icon with a colorful video camera).",
+      "Tap 'New' or 'Join with a code'.",
+      "If you are joining, type the code your family sent you.",
+      "Tap 'Join' and make sure your camera and microphone are turned on."
+    ]
+  }
+]
